@@ -101,6 +101,6 @@ The Streamlit app provides:
 
 ## 🔗 GitHub & Live App Links
 - GitHub Repo: https://github.com/jagdish05975/ML_Assignment_2025ac05975  
-- Streamlit App: https://mlassignment2025ac05795-kcddklbjeutjfrg8dfe6ye.streamlit.app
+- Streamlit App: https://mlassignment2025ac05975-clqjr9zuan5qjyesspyuc3.streamlit.app
 
 ## 📂 Project Structure
